@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1 style="font-size:30px;">TEA, COFFEE & MORE</h1>
+    <br><br>
+    <pre><h2 style="font-size:20px;">KADAK CHAI KI PYAALI HO                                            85</h2></pre>
+    <p>Home made kadak chai</p>
+
+    <pre><h2 style="font-size:20px;">TEAS                                                              115</h2></pre>
+    <p>Green Organic | Aasam Leaf </p>
+
+    <pre><h2 style="font-size:20px;">ESPRESSO                                                          125</h2></pre>
+    <p> A Strong Black Coffee Shot - Milk Optional </p>
+
+    <pre><h2 style="font-size:20px;" >AFFOGATO                                                         125</h2></pre>
+    <p>Strong Shot Of Espresso + Vanilla Ice-Cream</p>
+
+    <pre><h2 style="font-size:20px;" >CAFE MOCHA                                                       140 </h2></pre>
+    <p> Chocolate Syrup + Espresso + Steamed Milk + Coco </p>
+
+    <pre><h2 style="font-size:20px;">CAPPUCCINO                                                        140</h2></pre>
+    <p> Frothy Coffee with Milk + Dash of Chocolate </p>
+
+    <pre><h2 style="font-size:20px;" >CAFE LATTE                                                       140</h2></pre>
+    <p> Espresso Shot + Steamed Milk + Froth</p>
+
+    <pre><h2 style="font-size:20px;">CAFE AMERICANO                                                    140</h2></pre>
+    <p> American Drop Coffee -- Italian style! Served Black + Milk On Side </p>
+
+    <pre><h2 style="font-size:20px;" >HOT CHOCOLATE                                                    150</h2></pre>
+    <p> Creamy Milk + Silken Chocolate</p>
+
+    <pre><h2 style="font-size:20px;" >ICED CAPPUCCINO                                                  14O</h2></pre>
+    <p> Frothy Coffee + Chilled Milk + Dash Of Chocolate </p>
+
+    <pre><h2 style="font-size:20px;">ICED MOCHACCINO                                                   140</h2></pre>
+    <p> Espresso + Chocolate + Cold Milk + Whipped Cream </p>
+
+    <pre><h2 style="font-size:20px;">DOUBLE ESPRESSO                                                   150</h2></pre>
+    <p> Two Shot Of Espresso + Fun </p>
+
+    <pre><h2 style="font-size:20px;">MILK SHAKES                                                       185</h2></pre>
+    <p> Dreamy Creamy Milk Shakes</p>
+    <p>Dark Chocolate | Paan | Banana | Vanilla</p>
+
+
+
+
+</body>
+
+</html>
